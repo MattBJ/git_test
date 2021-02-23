@@ -1,0 +1,1 @@
+This is my first git project maintained properly, from my workstation in a local repository!
